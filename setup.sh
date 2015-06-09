@@ -1,13 +1,18 @@
 #!/usr/bin/env bash
 
 brews=(
+  alfred
   archey
   bash
   brew-cask
+  caffeine
   clib
   coreutils
+  dash
   dfc
+  evernote
   findutils
+  fluid
   git
   git-extras
   htop
@@ -31,8 +36,6 @@ brews=(
 )
 
 casks=(
-  adobe-reader
-  airdroid
   asepsis
   atom
   betterzipql
@@ -45,7 +48,6 @@ casks=(
   google-drive
   github
   hosts
-  handbrake
   intellij-idea
   istat-menus
   istat-server
@@ -58,19 +60,14 @@ casks=(
   java
   launchrocket
   microsoft-office
-  plex-home-theater
-  plex-media-server
   private-eye
   satellite-eyes
+  screens
   sidekick
   skype
   slack
   spotify
-  steam
-  teleport
-  transmission
-  transmission-remote-gui
-  tunnelbear
+  viscosity
   vlc
   zeroxdbe-eap
 )
@@ -103,7 +100,7 @@ git_configs=(
   "rerere.enabled true"
   "branch.autosetuprebase always"
   "credential.helper osxkeychain"
-  "user.email pathikritbhowmick@msn.com"
+  "user.email jay.ruffing@socialwellth.com"
 )
 
 apms=(
