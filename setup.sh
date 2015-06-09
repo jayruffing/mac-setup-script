@@ -43,6 +43,7 @@ casks=(
   bartender
   betterzipql
   cakebrew
+  charles
   chromecast
   cleanmymac
   cyberduck
