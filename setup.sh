@@ -35,15 +35,19 @@ brews=(
 )
 
 casks=(
+  1password
   alfred
   asepsis
   atom
+  bartender
   betterzipql
   cakebrew
   chromecast
   cleanmymac
+  cyberduck
   dropbox
   firefox
+  forklift
   google-chrome
   google-drive
   github
@@ -52,6 +56,7 @@ casks=(
   istat-menus
   istat-server
   iterm2
+  omnifocus
   phantomjs
   qlcolorcode
   qlmarkdown
@@ -61,15 +66,20 @@ casks=(
   java
   launchrocket
   microsoft-office
+  omnifocus
   private-eye
+  quiver
+  reflector
   satellite-eyes
   screens
   sidekick
   skype
   slack
-  spotify
+  snagit
+  tower
   viscosity
   vlc
+  vmware
   zeroxdbe-eap
 )
 
@@ -140,7 +150,6 @@ if test ! $(which brew); then
 else
   echo "Updating Homebrew ..."
   brew update
-  brew tap caskroom/cask
   brew upgrade brew-cask
 fi
 brew doctor
