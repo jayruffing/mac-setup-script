@@ -58,6 +58,7 @@ casks=(
   istat-menus
   istat-server
   iterm2
+  keepingyouawake
   omnifocus
   phantomjs
   qlcolorcode
