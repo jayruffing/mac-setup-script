@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 brews=(
-  alfred
   archey
   bash
   brew-cask
@@ -36,6 +35,7 @@ brews=(
 )
 
 casks=(
+  alfred
   asepsis
   atom
   betterzipql
@@ -52,6 +52,7 @@ casks=(
   istat-menus
   istat-server
   iterm2
+  phantomjs
   qlcolorcode
   qlmarkdown
   qlstephen
