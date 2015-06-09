@@ -69,7 +69,6 @@ casks=(
   microsoft-office
   omnifocus
   private-eye
-  quiver
   reflector
   satellite-eyes
   screens
