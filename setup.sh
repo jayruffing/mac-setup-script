@@ -140,6 +140,7 @@ if test ! $(which brew); then
 else
   echo "Updating Homebrew ..."
   brew update
+  brew tap caskroom/cask
   brew upgrade brew-cask
 fi
 brew doctor
