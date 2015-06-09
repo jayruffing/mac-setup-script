@@ -16,6 +16,7 @@ brews=(
   git-extras
   htop
   httpie
+  jmeter
   mackup
   macvim
   mtr
