@@ -97,6 +97,7 @@ npms=(
   coffee-script
   fenix-cli
   gitjk
+  pure-prompt
 )
 
 clibs=(
